@@ -1,4 +1,4 @@
-# ABC Universoty Course Organizer Project
+# ABC University Course Organizer Project
 
 # What was the problem you were solving in the projects for this course?
 The academic advisors for ABC university desired a program that would output a course list for the students in alphanumeric order while using the most memory and runtime efficient data structure. 
